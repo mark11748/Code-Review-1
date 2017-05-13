@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	color: white;
+	border-color: red;
+	border-width: 5px;
+	border-style:solid;
+	padding: 20px;
+	margin: 15px;
+	text-align: justify;
+
+}
+
+.htmlList {
+	background-color: green;
+	color: black
+	border-radius: 20px;
+	float: right;
+	margin: 10px;
+	padding: 10px;
+}
+
+.finePrint {
+	color: yellow;
+	font-size: 12px;
+	font-style: itallic;
+}
