@@ -11,6 +11,8 @@ fixed missing semi-colon in htmlList class
 * {.3-.4}
 fixed improper setup of git due to .gitignore not working
 
+*{.5}
+added a second css doc 'style2' to test why gh-pages isnt linking files
 
 #Installation and Future Updates
 the 'index.html' file in the CodeReview1 directory should work with any web browser.
