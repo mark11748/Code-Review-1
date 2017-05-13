@@ -14,7 +14,7 @@ fixed improper setup of git due to .gitignore not working
 
 #Installation and Future Updates
 the 'index.html' file in the CodeReview1 directory should work with any web browser.
-If not check the github page where i'll update this here: --PLACEHOLDER URL--
+If not check the github page where i'll update this here: https://github.com/mark11748/Code-Review-1/tree/master
 
 #Legal Stuff
 Copyright (c) 2017 Mark Woodward
