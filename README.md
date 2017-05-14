@@ -14,6 +14,9 @@ fixed improper setup of git due to .gitignore not working
 * {.5}
 added a second css doc 'style2' to test why gh-pages isnt linking files
 
+* {.6}
+patched css ref -- think problem was i had css/text instead of text/css
+
 # Installation and Future Updates
 the 'index.html' file in the CodeReview1 directory should work with any web browser.
 If not check the github page where i'll update this here: https://github.com/mark11748/Code-Review-1/tree/master
