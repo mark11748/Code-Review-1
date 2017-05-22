@@ -27,6 +27,9 @@ Mark Woodward
 =>pushed .info bellow .htmlList via setting float to none
 =>made .htmlList's margin relative
 
+* {.8}
+  =>added basic bootstrap classes container, row and col
+  
 # Installation and Future Updates
 the 'index.html' file in the CodeReview1 directory should work with any web browser.
 If not check the github page where i'll update this here: https://github.com/mark11748/Code-Review-1/tree/master
